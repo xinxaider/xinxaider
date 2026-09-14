@@ -2,6 +2,8 @@
 
 Estou cursando Engenharia Elétrica na UFSC e atuo como desenvolvedor de eletrônica e analista de powertrain na **Ampera Racing** (equipe de Fórmula SAE Elétrico). Tenho grande interesse por sistemas embarcados, eletrônica analógica, automação e programação.
 
+Agora também estou no Labmetro e autarei no projeto VORIS.
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
